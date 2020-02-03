@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.honeywell.android.lyric",
+    "sha256_cert_fingerprints":
+    ["81:59:1F:5B:D3:70:18:4D:E9:B5:E6:76:1C:5B:F0:77:58:10:22:01:3A:DB:DA:EF:F5:2F:29:B5:7D:09:E7:A7"]
+  }
+}]
